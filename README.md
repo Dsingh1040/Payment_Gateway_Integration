@@ -1,7 +1,7 @@
-# Developer - Ravi Sharma
+# Developer - Durgesh Singh
 
 # Task
-> Payment Gateway Integration - https://ravigithub19.github.io/payment_gateway_integration/
+> Payment Gateway Integration - https://Dsingh1040.github.io/Payment_Gateway_Integration/
 
 ## Table of contents
 * Homepage
